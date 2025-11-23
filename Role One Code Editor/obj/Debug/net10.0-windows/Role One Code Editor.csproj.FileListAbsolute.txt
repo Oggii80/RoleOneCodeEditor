@@ -1,0 +1,19 @@
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\bin\Debug\net10.0-windows\Role One Code Editor.exe
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\bin\Debug\net10.0-windows\Role One Code Editor.deps.json
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\bin\Debug\net10.0-windows\Role One Code Editor.runtimeconfig.json
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\bin\Debug\net10.0-windows\Role One Code Editor.dll
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\bin\Debug\net10.0-windows\Role One Code Editor.pdb
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role_One_Code_Editor.RoleOneEditor.resources
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.csproj.GenerateResource.cache
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.AssemblyInfoInputs.cache
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.AssemblyInfo.cs
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.csproj.CoreCompileInputs.cache
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.dll
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\refint\Role One Code Editor.dll
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.pdb
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role One Code Editor.genruntimeconfig.cache
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\ref\Role One Code Editor.dll
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role_One_Code_Editor.findForm.resources
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role_One_Code_Editor.Properties.Resources.resources
+C:\Users\Oggii80\Desktop\School Shit\Role One Code Editor\obj\Debug\net10.0-windows\Role_One_Code_Editor.SplashScreen.resources
